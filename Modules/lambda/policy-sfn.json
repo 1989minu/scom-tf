@@ -1,0 +1,13 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1653941148321",
+        "Action": [
+          "states:StartExecution"
+        ],
+        "Effect": "Allow",
+        "Resource": "*"
+      }
+    ]
+  }
